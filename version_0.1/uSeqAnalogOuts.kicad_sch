@@ -11053,15 +11053,15 @@
 		(fields_autoplaced yes)
 		(uuid "442d16a0-5cf1-4e26-a6be-a1d810373132")
 		(property "Reference" "D2"
-			(at 49.8475 61.0067 0)
+			(at 49.8475 59.69 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property "Value" "LED A1"
-			(at 49.8475 63.4309 0)
+		(property "Value" "LED A5"
+			(at 49.8475 62.23 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12311,15 +12311,15 @@
 		(fields_autoplaced yes)
 		(uuid "56e56304-4649-4966-bdbf-f194b352bbe1")
 		(property "Reference" "D8"
-			(at 49.8475 90.2167 0)
+			(at 49.8475 88.9 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property "Value" "LED A3"
-			(at 49.8475 92.6409 0)
+		(property "Value" "LED A8"
+			(at 49.8475 91.44 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14618,7 +14618,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_2x05_P2.54mm_Vertical_SMD"
+		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_2x05_P2.54mm_Vertical"
 			(at 67.31 373.634 0)
 			(effects
 				(font
@@ -17438,15 +17438,15 @@
 		(fields_autoplaced yes)
 		(uuid "b0470de2-5961-4dec-8e92-153d061facfa")
 		(property "Reference" "D1"
-			(at 49.8475 50.8467 0)
+			(at 49.8475 49.53 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property "Value" "LED A3"
-			(at 49.8475 53.2709 0)
+		(property "Value" "LED A4"
+			(at 49.8475 52.07 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20339,15 +20339,15 @@
 		(fields_autoplaced yes)
 		(uuid "e26d268e-cf54-4811-b6cf-e8dad49751ac")
 		(property "Reference" "D5"
-			(at 49.8475 70.1507 0)
+			(at 49.8475 69.85 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property "Value" "LED A2"
-			(at 49.8475 72.5749 0)
+		(property "Value" "LED A6"
+			(at 49.8475 72.39 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20952,15 +20952,15 @@
 		(fields_autoplaced yes)
 		(uuid "ed4ac9bb-9057-44fc-82fc-1247a65bff38")
 		(property "Reference" "D6"
-			(at 49.8475 80.0567 0)
+			(at 49.8475 78.74 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property "Value" "LED A3"
-			(at 49.8475 82.4809 0)
+		(property "Value" "LED A7"
+			(at 49.8475 81.28 0)
 			(effects
 				(font
 					(size 1.27 1.27)
