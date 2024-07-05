@@ -64,7 +64,7 @@
       39,
       40
     ],
-    "visible_layers": "ffdfccf_ffffffff",
+    "visible_layers": "fffffff_ffffffff",
     "zone_display_mode": 0
   },
   "git": {
@@ -74,7 +74,7 @@
     "ssh_key": ""
   },
   "meta": {
-    "filename": "uSeqAnalogOuts_01a.kicad_prl",
+    "filename": "uSeqAnalogOuts_01b.kicad_prl",
     "version": 3
   },
   "project": {
