@@ -3729,7 +3729,7 @@
 		)
 		(uuid "8c625cae-d637-4044-9979-abdbfe4b3b5f")
 	)
-	(label "GPIO17"
+	(label "GPIO14"
 		(at 203.2 90.17 0)
 		(fields_autoplaced yes)
 		(effects
@@ -3784,7 +3784,7 @@
 		)
 		(uuid "9ae26b65-0f52-49e1-b4e3-f8a1127d191a")
 	)
-	(label "GPIO26_ADC0"
+	(label "GPIO20"
 		(at 196.85 107.95 0)
 		(fields_autoplaced yes)
 		(effects
@@ -3872,7 +3872,7 @@
 		)
 		(uuid "bc1eb1d7-fb73-4b3b-ae20-39f9c870e71f")
 	)
-	(label "GPIO20"
+	(label "GPIO17"
 		(at 203.2 87.63 0)
 		(fields_autoplaced yes)
 		(effects
@@ -3927,7 +3927,7 @@
 		)
 		(uuid "cc661366-351f-4f8c-9101-ab02f8521b52")
 	)
-	(label "GPIO14"
+	(label "GPIO10"
 		(at 203.2 82.55 0)
 		(fields_autoplaced yes)
 		(effects
